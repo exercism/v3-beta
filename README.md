@@ -9,7 +9,7 @@ We'd love your help in highlighting any bugs or issues!
 Also, please note that the purpose of this website is to find things that are broken, so that we can ship this new version of the platform.
 **It is not to assertain peoples thoughts or opinions on v3 in general, or to get ideas for improvements.**
 We'll have space for improving things once the site has launched, but for now are focussed on getting over the finish line.
-To maintain a healthy noise/signal ration, we'll close issues that do not highlight specific bugs/issues.
+To maintain a healthy noise/signal ratio, we'll close issues that do not highlight specific bugs/issues.
 
 Finally, please remember that spending an extra few seconds wording your bug report kindly can make a big difference to how those of us fixing these issues feel, how overwhelmed we get, how productive we are, and consequently how quickly this product gets launched. 
 So please consider how what you write may be interpreted make an extra effort to be thoughtful 🙂
