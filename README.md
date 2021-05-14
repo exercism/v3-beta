@@ -29,7 +29,8 @@ Please check the two lists below for what is in/out of scope at this stage.
 - **Page: External Track:** https://exercism.lol/tracks/ruby
 - **Page: Exercises List:** https://exercism.lol/tracks/ruby/exercises
 - **Page: Concepts List:** https://exercism.lol/tracks/ruby/concepts
-- **Page: Editor:** https://exercism.lol/tracks/ruby/concepts/two-fer/edit (You need to start the exercise for this link to work)
+- **Page: Editor (Concept Exercise):** https://exercism.lol/tracks/ruby/exercises/lasagna/edit (You need to start the exercise for this link to work)
+- **Page: Editor (Practice Exercise):** https://exercism.lol/tracks/ruby/exercises/two-fer/edit (You need to start the exercise for this link to work)
 - **Page: Profile:** https://exercism.lol/profiles/iHiD
 - **Flow: Creating a Profile:** https://exercism.lol/profiles/intro and https://exercism.lol/profiles/new
 
