@@ -60,3 +60,4 @@ Please only test things while being **logged in**.
 - Ensure all issues state the page name (as per the list from Pages ready for testing) and the issue using the format: `[External Track Page] Lines between key features are missing`. If the issue is limited to a specific track, please add that in second square brackets, e.g. `[External Track Page] [Ruby] Key Features not showing up`.
 - Please keep issues factual. If you understand why something is breaking, please say, but the most helpful thing you can do is just to give us as many facts as possible.
 - Please check for open issues first - every time we have to close duplicates is time wasted 
+- Please include screenshots and JS console logs from dev tools, where possible.
