@@ -23,6 +23,8 @@ That means two things:
 
 Please check the two lists below for what is in/out of scope at this stage.
 
+We also provide a Changelog at the bottom of this file so that you can easily see which new things that have been added since you last checked.
+
 ### Pages/flows ready for testing
 
 - **Page: Tracks list:** https://exercism.lol/tracks
@@ -66,3 +68,9 @@ Please only test things while being **logged in**.
 - Please keep issues factual. If you understand why something is breaking, please say, but the most helpful thing you can do is just to give us as many facts as possible.
 - Please check for open issues first - every time we have to close duplicates is time wasted 
 - Please include screenshots and JS console logs from dev tools, where possible.
+
+## Changelog
+
+### 14th May 2021
+
+First version.
