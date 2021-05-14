@@ -44,6 +44,7 @@ Please only test things while being **logged in**.
   - Broken links that do not go to "#".
 - **Things that are unclear:** If you're looking for a button and can't find it, feel unsure what to do next, don't know how to get "back", etc, then please tell us.
 - **Track specific issues:** If something doesn't work for your track, but does work for other tracks, please tell us, regardless of whether it falls into the "do not report" category.
+- **ETL issues:** Is something different on v3 to how it was in v2 in February. Data lost? Wrong? If so, please tell us.
 
 ### Please do *not* report
 - Any feedback on copy / wording / spelling / grammar, etc
