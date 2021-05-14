@@ -27,6 +27,7 @@ We also provide a Changelog at the bottom of this file so that you can easily se
 
 ### Pages/flows ready for testing
 
+
 - **Page: Tracks list:** https://exercism.lol/tracks
 - **Page: External Track:** https://exercism.lol/tracks/ruby
 - **Page: Exercises List:** https://exercism.lol/tracks/ruby/exercises
@@ -37,10 +38,10 @@ We also provide a Changelog at the bottom of this file so that you can easily se
 - **Page: Profile:** https://exercism.lol/profiles/iHiD
 - **Flow: Creating a Profile:** https://exercism.lol/profiles/intro and https://exercism.lol/profiles/new
 
-Any tooltips, dropdowns or modals that appear on these pages are **in scope**.
-The results of any form submissions are also **in scope**.
-
-Please only test things while being **logged in**. 
+- Any tooltips, dropdowns or modals that appear on these pages are **in scope**.
+- The results of any form submissions are also **in scope**.
+- The site header and footer are **out of scope** on all pages
+- Please only test things while being **logged in**. 
 
 ### Things to report
 
