@@ -40,7 +40,7 @@ Please only test things while being **logged in**.
 - **Bugs:** By bugs, we mean things not doing what they **should** do. Bugs include:
   - Errors (either full 500 pages or JS errors)
   - Does something not do what you expected when you clicked it.
-  - Visual laying issues (for example, a tooltip not sitting above an page element)
+  - Visual layout issues (for example, a tooltip not sitting above an page element)
   - Broken links that do not go to "#".
 - **Things that are unclear:** If you're looking for a button and can't find it, feel unsure what to do next, don't know how to get "back", etc, then please tell us.
 - **Track specific issues:** If something doesn't work for your track, but does work for other tracks, please tell us, regardless of whether it falls into the "do not report" category.
