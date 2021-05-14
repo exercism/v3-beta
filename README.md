@@ -20,15 +20,15 @@ That means two things:
 
 Please check the two lists below for what is in/out of scope at this stage.
 
-### Pages ready for testing
+### Pages/flows ready for testing
 
-- **Tracks list:** https://exercism.lol/tracks
-- **External Track Page:** https://exercism.lol/tracks/ruby
-- **Exercises List:** https://exercism.lol/tracks/ruby/exercises
-- **Concepts List:** https://exercism.lol/tracks/ruby/concepts
-- **Editor Page:** https://exercism.lol/tracks/ruby/concepts/two-fer/edit (You need to start the exercise for this link to work)
-- **Profile Page:** https://exercism.lol/profiles/iHiD
-- **Creating a profile:** https://exercism.lol/profiles/intro and https://exercism.lol/profiles/new
+- **Page: Tracks list:** https://exercism.lol/tracks
+- **Page: External Track:** https://exercism.lol/tracks/ruby
+- **Page: Exercises List:** https://exercism.lol/tracks/ruby/exercises
+- **Page: Concepts List:** https://exercism.lol/tracks/ruby/concepts
+- **Page: Editor:** https://exercism.lol/tracks/ruby/concepts/two-fer/edit (You need to start the exercise for this link to work)
+- **Page: Profile:** https://exercism.lol/profiles/iHiD
+- **Flow: Creating a Profile:** https://exercism.lol/profiles/intro and https://exercism.lol/profiles/new
 
 Any tooltips, dropdowns or modals that appear on these pages are **in scope**.
 The results of any form submissions are also **in scope**.
@@ -57,7 +57,7 @@ Please only test things while being **logged in**.
 ## Reporting an issue
 
 - Please use this repo to report issues.
-- Ensure all issues state the page name (as per the list from Pages ready for testing) and the issue using the format: `[External Track Page] Lines between key features are missing`. If the issue is limited to a specific track, please add that in second square brackets, e.g. `[External Track Page] [Ruby] Key Features not showing up`.
+- Ensure all issues state the page/flow name (as per the list from "Pages/flows ready for testing") and the issue using the format: `[Page: External Track] Lines between key features are missing`. If the issue is limited to a specific track, please add that in second square brackets, e.g. `[Page: External Track] [Ruby] Key Features not showing up`.
 - Please keep issues factual. If you understand why something is breaking, please say, but the most helpful thing you can do is just to give us as many facts as possible.
 - Please check for open issues first - every time we have to close duplicates is time wasted 
 - Please include screenshots and JS console logs from dev tools, where possible.
