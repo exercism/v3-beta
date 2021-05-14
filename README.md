@@ -27,6 +27,13 @@ Please check the two lists below for what is in/out of scope at this stage.
 - **Exercises List:** https://exercism.lol/tracks/ruby/exercises
 - **Concepts List:** https://exercism.lol/tracks/ruby/concepts
 - **Editor Page:** https://exercism.lol/tracks/ruby/concepts/two-fer/edit (You need to start the exercise for this link to work)
+- **Profile Page:** https://exercism.lol/profiles/iHiD
+- **Creating a profile:** https://exercism.lol/profiles/intro and https://exercism.lol/profiles/new
+
+Any tooltips, dropdowns or modals that appear on these pages are **in scope**.
+The results of any form submissions are also **in scope**.
+
+Please only test things while being **logged in**. 
 
 ### Things to report
 
@@ -44,6 +51,7 @@ Please check the two lists below for what is in/out of scope at this stage.
 - Accessibility issues - we'll do a full pass once everything is settled
 - Links that go to "#"
 - General feedback / opinions
+- Mobile responsiveness issues.
 
 ## Reporting an issue
 
