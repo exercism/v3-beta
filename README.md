@@ -35,7 +35,7 @@ We also provide a Changelog at the bottom of this file so that you can easily se
 - **Page: Exercise Community Solutions**: https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions
 - **Page: Editor (Concept Exercise):** https://exercism.lol/tracks/ruby/exercises/lasagna/edit (You need to start the exercise for this link to work)
 - **Page: Editor (Practice Exercise):** https://exercism.lol/tracks/ruby/exercises/two-fer/edit (You need to start the exercise for this link to work)
-- **Page: Profile:** https://exercism.lol/profiles/iHiD
+- **Page: Profile:** https://exercism.lol/profiles/iHiD (and the tabs on your profile: https://exercism.lol/profiles/iHiD/*)
 - **Flow: Creating a Profile:** https://exercism.lol/profiles/intro and https://exercism.lol/profiles/new
 
 - Any tooltips, dropdowns or modals that appear on these pages are **in scope**.
