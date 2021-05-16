@@ -24,6 +24,8 @@ Please check the two lists below for what is in/out of scope at this stage.
 
 We also provide a Changelog at the bottom of this file so that you can easily see which new things that have been added since you last checked.
 
+Please only test things while being **logged in**, and note that only GitHub login works during the beta.
+
 ### Pages/flows ready for testing
 
 - **Page: Tracks list:** [https://exercism.lol/tracks](https://exercism.lol/tracks)
@@ -41,7 +43,6 @@ We also provide a Changelog at the bottom of this file so that you can easily se
 - Any tooltips, dropdowns or modals that appear on these pages are **in scope**.
 - The results of any form submissions are also **in scope**.
 - The site header and footer are **out of scope** on all pages
-- Please only test things while being **logged in**. 
 
 ### Things to report
 
