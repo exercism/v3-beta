@@ -2,7 +2,7 @@
 
 We're nearly ready to launch v3 of Exercism, culminating nearly two years of hard work 🎉
 
-We are running a [https://exercism.lol](phased beta of the website) and we'd love your help in highlighting any bugs or issues!
+We are running a [phased beta of the website](https://exercism.lol) and we'd love your help in highlighting any bugs or issues!
 **Please read this document carefully before getting started.**
 
 Also, please note that the purpose of this website is to find things that are broken, so that we can ship this new version of the platform.
