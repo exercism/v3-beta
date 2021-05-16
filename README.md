@@ -25,6 +25,7 @@ Please check the two lists below for what is in/out of scope at this stage.
 We also provide a Changelog at the bottom of this file so that you can easily see which new things that have been added since you last checked.
 
 Please only test things while being **logged in**, and note that only GitHub login works during the beta.
+You can use your existing Exercism account to log in.
 
 ### Pages/flows ready for testing
 
