@@ -26,16 +26,17 @@ We also provide a Changelog at the bottom of this file so that you can easily se
 
 ### Pages/flows ready for testing
 
+- **Page: Tracks list:** [https://exercism.lol/tracks](https://exercism.lol/tracks)
+- **Page: External Track:** e.g. [https://exercism.lol/tracks/ruby](https://exercism.lol/tracks/ruby) when not joined
+- **Page: Exercises List:** e.g. [https://exercism.lol/tracks/ruby/exercises](https://exercism.lol/tracks/ruby/exercises)
+- **Page: Concepts List:** e.g. [https://exercism.lol/tracks/ruby/concepts](https://exercism.lol/tracks/ruby/concepts)
+- **Page: Exercise Community Solutions**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions](https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions)
+- **Page: Editor (Concept Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/lasagna/edit](https://exercism.lol/tracks/ruby/exercises/lasagna/edit) (You need to start the exercise for this link to work)
+- **Page: Editor (Practice Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/edit](https://exercism.lol/tracks/ruby/exercises/two-fer/edit) (You need to start the exercise for this link to work)
+- **Page: Profile:** [https://exercism.lol/profiles/iHiD](https://exercism.lol/profiles/iHiD) (and the tabs on your profile: https://exercism.lol/profiles/iHiD/*)
+- **Flow: Creating a Profile:** [https://exercism.lol/profiles/intro](https://exercism.lol/profiles/intro) and [https://exercism.lol/profiles/new](https://exercism.lol/profiles/new)
 
-- **Page: Tracks list:** https://exercism.lol/tracks
-- **Page: External Track:** https://exercism.lol/tracks/ruby
-- **Page: Exercises List:** https://exercism.lol/tracks/ruby/exercises
-- **Page: Concepts List:** https://exercism.lol/tracks/ruby/concepts
-- **Page: Exercise Community Solutions**: https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions
-- **Page: Editor (Concept Exercise):** https://exercism.lol/tracks/ruby/exercises/lasagna/edit (You need to start the exercise for this link to work)
-- **Page: Editor (Practice Exercise):** https://exercism.lol/tracks/ruby/exercises/two-fer/edit (You need to start the exercise for this link to work)
-- **Page: Profile:** https://exercism.lol/profiles/iHiD (and the tabs on your profile: https://exercism.lol/profiles/iHiD/*)
-- **Flow: Creating a Profile:** https://exercism.lol/profiles/intro and https://exercism.lol/profiles/new
+#### What is in/out of scope?
 
 - Any tooltips, dropdowns or modals that appear on these pages are **in scope**.
 - The results of any form submissions are also **in scope**.
