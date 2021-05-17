@@ -53,7 +53,7 @@ You can use your existing Exercism account to log in.
 - **Bugs:** By bugs, we mean things not doing what they **should** do. Bugs include:
   - Errors (either full 500 pages or JS errors)
   - Does something not do what you expected when you clicked it.
-  - Visual layout issues (for example, a tooltip not sitting above an page element)
+  - Visual layout issues (for example, a tooltip not sitting above an page element, or two elements overlapping)
   - Broken links that do not go to "#".
 - **Things that are unclear:** If you're looking for a button and can't find it, feel unsure what to do next, don't know how to get "back", etc, then please tell us.
 - **Track specific issues:** If something doesn't work for your track, but does work for other tracks, please tell us, regardless of whether it falls into the "do not report" category.
@@ -61,7 +61,7 @@ You can use your existing Exercism account to log in.
 
 ### Please do *not* report
 - Any feedback on copy / wording / spelling / grammar, etc
-- Visual inconsistencies - the CSS isn't polished yet
+- Visual inconsistencies where the CSS isn't polished yet (e.g. a color or padding being wrong)
 - Accessibility issues - we'll do a full pass once everything is settled
 - Links that go to "#"
 - General feedback / opinions
