@@ -10,6 +10,9 @@ Also, please note that the purpose of this website is to find things that are br
 We'll have space for improving things once the site has launched, but for now are focussed on getting over the finish line.
 To maintain a healthy noise/signal ratio, we'll close issues that do not highlight specific bugs/issues.
 
+We recommend trying the site using Chrome if you want the best experience. 
+Before launching, we'll get it working on all browsers, but we use Chrome internally, so your experience will be the most "as expected" if you also use Chrome.
+
 Finally, please remember that spending an extra few seconds wording your bug report kindly can make a big difference to how those of us fixing these issues feel, how overwhelmed we get, how productive we are, and consequently how quickly this product gets launched. 
 So please consider how what you write may be interpreted make an extra effort to be thoughtful 🙂
 
