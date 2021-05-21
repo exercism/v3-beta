@@ -36,6 +36,10 @@ You can use your existing Exercism account to log in.
 - **Page: External Track:** e.g. [https://exercism.lol/tracks/ruby](https://exercism.lol/tracks/ruby) when not joined
 - **Page: Exercises List:** e.g. [https://exercism.lol/tracks/ruby/exercises](https://exercism.lol/tracks/ruby/exercises)
 - **Page: Concepts List:** e.g. [https://exercism.lol/tracks/ruby/concepts](https://exercism.lol/tracks/ruby/concepts)
+- **Page: Iterations:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/iterations](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations)
+  - **Pre-started:** Before starting/downloading an exercise
+  - **Pre-submitted:** After starting/downloading but before submitting an iteration
+  - **Post-submission:** After submitting one or more iterations - various possibilities on tests/analysis
 - **Page: Exercise Community Solutions**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions](https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions)
 - **Page: Editor (Concept Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/lasagna/edit](https://exercism.lol/tracks/ruby/exercises/lasagna/edit) (You need to start the exercise for this link to work)
 - **Page: Editor (Practice Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/edit](https://exercism.lol/tracks/ruby/exercises/two-fer/edit) (You need to start the exercise for this link to work)
@@ -77,6 +81,22 @@ You can use your existing Exercism account to log in.
 
 ## Changelog
 
+
 ### 14th May 2021
 
 First version.
+
+### 21st May 2021
+
+**Newly in scope:**
+
+- Page: Iterations
+  - Pre-started
+  - Pre-submitted
+  - Post-submission
+
+**New functionality:**
+
+- Exercise makers modal (click on authors/contributors on an exercise page)
+- Test results (click on "Failed" in mentoring header or community solution)
+- Editor changed to CodeMirror
