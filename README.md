@@ -37,10 +37,7 @@ You can use your existing Exercism account to log in.
 - **Page: Exercises List:** e.g. [https://exercism.lol/tracks/ruby/exercises](https://exercism.lol/tracks/ruby/exercises)
 - **Page: Concepts List:** e.g. [https://exercism.lol/tracks/ruby/concepts](https://exercism.lol/tracks/ruby/concepts)
 - **Page: Exercise:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations). There's a huge amount of different states on this page. Everything is in scope.
-- **Page: Iterations:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/iterations](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations)
-  - **Pre-started:** Before starting/downloading an exercise
-  - **Pre-submitted:** After starting/downloading but before submitting an iteration
-  - **Post-submission:** After submitting one or more iterations - various possibilities on tests/analysis
+- **Page: Iterations:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/iterations](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations). There are different states for pre-starting, pre-submission and post-submission. Automated feedback and test results also appear here. Everything is in scope.
 - **Page: Exercise Community Solutions**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions](https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions)
 - **Page: Editor (Concept Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/lasagna/edit](https://exercism.lol/tracks/ruby/exercises/lasagna/edit) (You need to start the exercise for this link to work)
 - **Page: Editor (Practice Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/edit](https://exercism.lol/tracks/ruby/exercises/two-fer/edit) (You need to start the exercise for this link to work)
@@ -92,9 +89,6 @@ First version.
 **Newly in scope:**
 
 - Page: Iterations
-  - Pre-started
-  - Pre-submitted
-  - Post-submission
 
 **New functionality:**
 
