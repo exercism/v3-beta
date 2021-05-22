@@ -36,6 +36,7 @@ You can use your existing Exercism account to log in.
 - **Page: External Track:** e.g. [https://exercism.lol/tracks/ruby](https://exercism.lol/tracks/ruby) when not joined
 - **Page: Exercises List:** e.g. [https://exercism.lol/tracks/ruby/exercises](https://exercism.lol/tracks/ruby/exercises)
 - **Page: Concepts List:** e.g. [https://exercism.lol/tracks/ruby/concepts](https://exercism.lol/tracks/ruby/concepts)
+- **Page: Exercise:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations). There's a huge amount of different states on this page. Everything is in scope.
 - **Page: Iterations:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/iterations](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations)
   - **Pre-started:** Before starting/downloading an exercise
   - **Pre-submitted:** After starting/downloading but before submitting an iteration
@@ -100,3 +101,9 @@ First version.
 - Exercise makers modal (click on authors/contributors on an exercise page)
 - Test results (click on "Failed" in mentoring header or community solution)
 - Editor changed to CodeMirror
+
+### 22nd May 2021
+
+**Newly in scope:**
+
+- Page: Exercise
