@@ -36,7 +36,7 @@ You can use your existing Exercism account to log in.
 - **Page: External Track:** e.g. [https://exercism.lol/tracks/ruby](https://exercism.lol/tracks/ruby) when not joined
 - **Page: Exercises List:** e.g. [https://exercism.lol/tracks/ruby/exercises](https://exercism.lol/tracks/ruby/exercises)
 - **Page: Concepts List:** e.g. [https://exercism.lol/tracks/ruby/concepts](https://exercism.lol/tracks/ruby/concepts)
-- **Page: Exercise/Overview:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer](https://exercism.lol/tracks/ruby/exercises/two-fer). There's a huge amount of different states on this page. Everything is in scope.
+- **Page: Exercise/Overview:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer](https://exercism.lol/tracks/ruby/exercises/two-fer). There's a huge amount of different states on this page. Everything is in scope, including tooltips and modals for publishing and changing published iterations.
 - **Page: Exercise/Iterations:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/iterations](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations). There are different states for pre-starting, pre-submission and post-submission. Automated feedback and test results also appear here. Everything is in scope.
 - **Page: Exercise Community Solutions**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions](https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions)
 - **Page: Editor (Concept Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/lasagna/edit](https://exercism.lol/tracks/ruby/exercises/lasagna/edit) (You need to start the exercise for this link to work)
