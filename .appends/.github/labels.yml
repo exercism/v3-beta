@@ -1,0 +1,56 @@
+# ----------------------------------------------------------------------------------------- #
+# These are the repository-specific labels that augment the Exercise-wide labels defined in #
+# https://github.com/exercism/org-wide-files/blob/main/global-files/.github/labels.yml.     #
+# ----------------------------------------------------------------------------------------- #
+
+- name: "status/duplicate"
+  description: "This issue or pull request already exists"
+  color: "cfd3d7"
+
+- name: "status/fixed-pending-deploy"
+  description: "The work for this is done but not yet approved and deployed"
+  color: "16192B"
+
+- name: "status/invalid"
+  description: "This doesn't seem right"
+  color: "e4e669"
+
+- name: "status/more-information-required"
+  description: ""
+  color: "5319e7"
+
+- name: "status/out-of-scope"
+  description: "Not something we're dealing with at this time."
+  color: "34F4A7"
+
+- name: "status/wontfix"
+  description: "This will not be worked on"
+  color: "ffffff"
+
+- name: "type/bug"
+  description: "Something isn't working"
+  color: "d73a4a"
+
+- name: "type/css-bug"
+  description: "A CSS bug."
+  color: "d93f0b"
+
+- name: "type/enhancement"
+  description: "New feature or request"
+  color: "a2eeef"
+
+- name: "type/missing"
+  description: "Something is missing (a link, etc)"
+  color: "006b75"
+
+- name: "type/question"
+  description: "Further information is requested"
+  color: "d876e3"
+
+- name: "type/track-issue"
+  description: "Something that needs fixing upstream in a track"
+  color: "F1E595"
+
+- name: "type/unfinished"
+  description: "A feature that's not yet finished"
+  color: "0052cc"
