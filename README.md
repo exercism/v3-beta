@@ -36,13 +36,21 @@ You can use your existing Exercism account to log in.
 - **Page: External Track:** e.g. [https://exercism.lol/tracks/ruby](https://exercism.lol/tracks/ruby) when not joined
 - **Page: Exercises List:** e.g. [https://exercism.lol/tracks/ruby/exercises](https://exercism.lol/tracks/ruby/exercises)
 - **Page: Concepts List:** e.g. [https://exercism.lol/tracks/ruby/concepts](https://exercism.lol/tracks/ruby/concepts)
+- **Page: Concept/Overview:** e.g. [https://exercism.lol/tracks/elixir/concepts/anonymous-functions](https://exercism.lol/tracks/elixir/concepts/anonymous-functions). There are different states depending on whether you've joined the track and which exercises you've started/completed.
 - **Page: Exercise/Overview:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer](https://exercism.lol/tracks/ruby/exercises/two-fer). There's a huge amount of different states on this page. Everything is in scope, including tooltips and modals for publishing and changing published iterations.
 - **Page: Exercise/Iterations:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/iterations](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations). There are different states for pre-starting, pre-submission and post-submission. Automated feedback and test results also appear here. Everything is in scope.
 - **Page: Exercise/Community Solutions**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions](https://exercism.lol/tracks/ruby/exercises/two-fer/community_solutions)
+- **Page: Exercise/Mentoring**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/mentoring](https://exercism.lol/tracks/ruby/exercises/two-fer/mentoring)
 - **Page: Editor (Concept Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/lasagna/edit](https://exercism.lol/tracks/ruby/exercises/lasagna/edit) (You need to start the exercise for this link to work)
 - **Page: Editor (Practice Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/edit](https://exercism.lol/tracks/ruby/exercises/two-fer/edit) (You need to start the exercise for this link to work)
 - **Page: Profile:** [https://exercism.lol/profiles/iHiD](https://exercism.lol/profiles/iHiD) (and the tabs on your profile: https://exercism.lol/profiles/iHiD/*)
 - **Flow: Creating a Profile:** [https://exercism.lol/profiles/intro](https://exercism.lol/profiles/intro) and [https://exercism.lol/profiles/new](https://exercism.lol/profiles/new)
+- - **Page: Contributing/Contributors:** [https://exercism.lol/contributing/contributors](https://exercism.lol/contributing/contributors)
+- - **Page: Contributing/Tasks:** [https://exercism.lol/contributing/tasks](https://exercism.lol/contributing/tasks)
+- - **Page: Mentoring/Workspace:** [https://exercism.lol/mentoring/inbox](https://exercism.lol/mentoring/inbox) (All tabs)
+- - **Page: Mentoring/Queue:** [https://exercism.lol/mentoring/queue](https://exercism.lol/mentoring/queue)
+- - **Page: Mentoring/Testimonials:** [https://exercism.lol/mentoring/testimonials](https://exercism.lol/mentoring/testimonials)
+- - **Page: Journey/Badges:** [https://exercism.lol/journey/badges](https://exercism.lol/journey/badges)
 
 #### What is in/out of scope?
 
@@ -101,3 +109,16 @@ First version.
 **Newly in scope:**
 
 - Page: Exercise/Overview
+
+### 14th June 2021
+
+**Newly in scope:**
+
+- Page: Exercise/Mentoring
+- Page: Concept/Overview
+- Page: Contributors/Contributing
+- Page: Contributors/Tasks
+- Page: Mentoring/Workspace
+- Page: Mentoring/Queue
+- Page: Mentoring/Testimonials
+- Page: Journey/Badges
