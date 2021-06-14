@@ -45,7 +45,7 @@ You can use your existing Exercism account to log in.
 - **Page: Editor (Practice Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/edit](https://exercism.lol/tracks/ruby/exercises/two-fer/edit) (You need to start the exercise for this link to work)
 - **Page: Profile:** [https://exercism.lol/profiles/iHiD](https://exercism.lol/profiles/iHiD) (and the tabs on your profile: https://exercism.lol/profiles/iHiD/*)
 - **Flow: Creating a Profile:** [https://exercism.lol/profiles/intro](https://exercism.lol/profiles/intro) and [https://exercism.lol/profiles/new](https://exercism.lol/profiles/new)
-- - **Page: Contributing/Contributors:** [https://exercism.lol/contributing/contributors](https://exercism.lol/contributing/contributors)
+- - **Page: Contributing/Contributors:** [https://exercism.lol/contributing/contributors](https://exercism.lol/contributing/contributors). Data will not be reliable until a full data import is run.
 - - **Page: Contributing/Tasks:** [https://exercism.lol/contributing/tasks](https://exercism.lol/contributing/tasks)
 - - **Page: Mentoring/Workspace:** [https://exercism.lol/mentoring/inbox](https://exercism.lol/mentoring/inbox) (All tabs)
 - - **Page: Mentoring/Queue:** [https://exercism.lol/mentoring/queue](https://exercism.lol/mentoring/queue)
