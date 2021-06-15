@@ -79,7 +79,7 @@ You can use your existing Exercism account to log in.
 
 ## Reporting an issue
 
-- Please use this repo to report issues.
+- Please use the [v3-beta repo](https://github.com/exercism/v3-beta) to report issues.
 - Ensure all issues state the page/flow name (as per the list from "Pages/flows ready for testing") and the issue using the format: `[Page: External Track] Lines between key features are missing`. If the issue is limited to a specific track, please add that in second square brackets, e.g. `[Page: External Track] [Ruby] Key Features not showing up`.
 - Please keep issues factual. If you understand why something is breaking, please say, but the most helpful thing you can do is just to give us as many facts as possible.
 - Please check for open issues first - every time we have to close duplicates is time wasted 
