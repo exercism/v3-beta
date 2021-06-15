@@ -32,7 +32,8 @@ You can use your existing Exercism account to log in.
 
 ### Pages/flows ready for testing
 
-- **Page: Tracks list:** [https://exercism.lol/tracks](https://exercism.lol/tracks)
+- **[Page: Tracks list](https://exercism.lol/tracks)**
+- **Page: Track (Joined):** e.g. (https://exercism.lol/tracks/ruby) once joined. There are various states of different components on this page.
 - **Page: External Track:** e.g. [https://exercism.lol/tracks/ruby](https://exercism.lol/tracks/ruby) when not joined
 - **Page: Exercises List:** e.g. [https://exercism.lol/tracks/ruby/exercises](https://exercism.lol/tracks/ruby/exercises)
 - **Page: Concepts List:** e.g. [https://exercism.lol/tracks/ruby/concepts](https://exercism.lol/tracks/ruby/concepts)
@@ -122,3 +123,9 @@ First version.
 - Page: Mentoring/Queue
 - Page: Mentoring/Testimonials
 - Page: Journey/Badges
+
+### 15th June 2021
+
+**Newly in scope:**
+
+- Page: Track (Joined)
