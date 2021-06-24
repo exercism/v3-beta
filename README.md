@@ -42,6 +42,7 @@ You can use your existing Exercism account to log in.
 - **Page: Exercise/Iterations:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/iterations](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations). There are different states for pre-starting, pre-submission and post-submission. Automated feedback and test results also appear here. Everything is in scope.
 - **Page: Exercise/Community Solutions**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/solutions](https://exercism.lol/tracks/ruby/exercises/two-fer/solutions)
 - **Page: Exercise/Mentoring**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/mentor_discussions](https://exercism.lol/tracks/ruby/exercises/two-fer/mentor_discussions)
+- **Flow: Exercise/Mentoring**: e.g. https://exercism.lol/tracks/ruby/exercises/two-fer/mentor_discussions/xxxx - The mentoring flow from a **student's** perspective, from requesting through a discussion, through the discussion itself, to the various different endings of the rating modals.
 - **Page: Editor (Concept Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/lasagna/edit](https://exercism.lol/tracks/ruby/exercises/lasagna/edit) (You need to start the exercise for this link to work)
 - **Page: Editor (Practice Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/edit](https://exercism.lol/tracks/ruby/exercises/two-fer/edit) (You need to start the exercise for this link to work)
 - **Page: Profile:** [https://exercism.lol/profiles/iHiD](https://exercism.lol/profiles/iHiD) (and the tabs on your profile: https://exercism.lol/profiles/iHiD/*)
@@ -51,7 +52,10 @@ You can use your existing Exercism account to log in.
 - **[Page: Mentoring/Workspace](https://exercism.lol/mentoring/inbox):** (All tabs)
 - **[Page: Mentoring/Queue](https://exercism.lol/mentoring/queue):** 
 - **[Page: Mentoring/Testimonials](https://exercism.lol/mentoring/testimonials):** 
+- **[Flow: Mentoring/Discussion](https://exercism.lol/mentoring):** Working through starting mentoring, posting comments, and ending a discussion from the **mentors** perspective
 - **[Page: Journey/Badges](https://exercism.lol/journey/badges):**
+
+Note that for issues that appear both in "Exercise/Mentoring" and "Mentoring/Discussion" flows, only one issue needs to be added.
 
 #### What is in/out of scope?
 
@@ -129,3 +133,10 @@ First version.
 **Newly in scope:**
 
 - Page: Track (Joined)
+
+### 24th June 2021
+
+**Newly in scope:**
+
+- Flow: Exercism/Mentoring
+- Flow: Mentoring/Discussion
