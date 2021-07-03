@@ -53,7 +53,8 @@ You can use your existing Exercism account to log in.
 - **[Page: Mentoring/Queue](https://exercism.lol/mentoring/queue):** 
 - **[Page: Mentoring/Testimonials](https://exercism.lol/mentoring/testimonials):** 
 - **[Flow: Mentoring/Discussion](https://exercism.lol/mentoring):** Working through starting mentoring, posting comments, and ending a discussion from the **mentors** perspective
-- **[Page: Journey/Badges](https://exercism.lol/journey/badges):**
+- **[Page: Settings/Account](https://exercism.lol/settings):**
+- **[Page: Settings/API](https://exercism.lol/settings/api_cli):**
 
 Note that for issues that appear both in "Exercise/Mentoring" and "Mentoring/Discussion" flows, only one issue needs to be added.
 
@@ -140,3 +141,10 @@ First version.
 
 - Flow: Exercism/Mentoring
 - Flow: Mentoring/Discussion
+
+
+### 3rd July 2021
+
+**Newly in scope:**
+- Page: Settings/Account
+- Page: Settings/API
