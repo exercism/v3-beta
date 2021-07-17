@@ -150,6 +150,10 @@
 - name: "status/fixed-pending-deploy"
   description: "The work for this is done but not yet approved and deployed"
   color: "16192B"
+  
+- name: "status/fixed-in-next-etl"
+  description: "This will be fixed in the next ETL run"
+  color: "16192B"
 
 - name: "status/invalid"
   description: "This doesn't seem right"
