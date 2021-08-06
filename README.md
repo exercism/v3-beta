@@ -18,51 +18,8 @@ So please consider how what you write may be interpreted make an extra effort to
 
 ## Phased Beta
 
-This is a phased beta.
-That means two things:
-1. Only some pages are ready to be tested at any time
-2. Different feedback is requested at different points.
-
-Please check the two lists below for what is in/out of scope at this stage.
-
-We also provide a Changelog at the bottom of this file so that you can easily see which new things that have been added since you last checked.
-
-Please only test things while being **logged in**, and note that only GitHub login works during the beta.
-You can use your existing Exercism account to log in.
-
-### Pages/flows ready for testing
-
-- **[Page: Tracks list](https://exercism.lol/tracks)**
-- **Page: Track (Joined):** e.g. (https://exercism.lol/tracks/ruby) once joined. There are various states of different components on this page.
-- **Page: External Track:** e.g. [https://exercism.lol/tracks/ruby](https://exercism.lol/tracks/ruby) when not joined
-- **Page: Exercises List:** e.g. [https://exercism.lol/tracks/ruby/exercises](https://exercism.lol/tracks/ruby/exercises)
-- **Page: Concepts List:** e.g. [https://exercism.lol/tracks/ruby/concepts](https://exercism.lol/tracks/ruby/concepts)
-- **Page: Concept/Overview:** e.g. [https://exercism.lol/tracks/elixir/concepts/anonymous-functions](https://exercism.lol/tracks/elixir/concepts/anonymous-functions). There are different states depending on whether you've joined the track and which exercises you've started/completed.
-- **Page: Exercise/Overview:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer](https://exercism.lol/tracks/ruby/exercises/two-fer). There's a huge amount of different states on this page. Everything is in scope, including tooltips and modals for publishing and changing published iterations.
-- **Page: Exercise/Iterations:** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/iterations](https://exercism.lol/tracks/ruby/exercises/two-fer/iterations). There are different states for pre-starting, pre-submission and post-submission. Automated feedback and test results also appear here. Everything is in scope.
-- **Page: Exercise/Community Solutions**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/solutions](https://exercism.lol/tracks/ruby/exercises/two-fer/solutions)
-- **Page: Exercise/Mentoring**: e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/mentor_discussions](https://exercism.lol/tracks/ruby/exercises/two-fer/mentor_discussions)
-- **Flow: Exercise/Mentoring**: e.g. https://exercism.lol/tracks/ruby/exercises/two-fer/mentor_discussions/xxxx - The mentoring flow from a **student's** perspective, from requesting through a discussion, through the discussion itself, to the various different endings of the rating modals.
-- **Page: Editor (Concept Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/lasagna/edit](https://exercism.lol/tracks/ruby/exercises/lasagna/edit) (You need to start the exercise for this link to work)
-- **Page: Editor (Practice Exercise):** e.g. [https://exercism.lol/tracks/ruby/exercises/two-fer/edit](https://exercism.lol/tracks/ruby/exercises/two-fer/edit) (You need to start the exercise for this link to work)
-- **Page: Profile:** [https://exercism.lol/profiles/iHiD](https://exercism.lol/profiles/iHiD) (and the tabs on your profile: https://exercism.lol/profiles/iHiD/*)
-- **Flow: Creating a Profile:** [https://exercism.lol/profiles/intro](https://exercism.lol/profiles/intro) and [https://exercism.lol/profiles/new](https://exercism.lol/profiles/new)
-- **[Page: Contributing/Contributors](https://exercism.lol/contributing/contributors):** Data will not be reliable until a full data import is run.
-- **[Page: Contributing/Tasks](https://exercism.lol/contributing/tasks):**
-- **[Page: Mentoring/Workspace](https://exercism.lol/mentoring/inbox):** (All tabs)
-- **[Page: Mentoring/Queue](https://exercism.lol/mentoring/queue):** 
-- **[Page: Mentoring/Testimonials](https://exercism.lol/mentoring/testimonials):** 
-- **[Flow: Mentoring/Discussion](https://exercism.lol/mentoring):** Working through starting mentoring, posting comments, and ending a discussion from the **mentors** perspective
-- **[Page: Settings/Account](https://exercism.lol/settings):**
-- **[Page: Settings/API](https://exercism.lol/settings/api_cli):**
-
-Note that for issues that appear both in "Exercise/Mentoring" and "Mentoring/Discussion" flows, only one issue needs to be added.
-
-#### What is in/out of scope?
-
-- Any tooltips, dropdowns or modals that appear on these pages are **in scope**.
-- The results of any form submissions are also **in scope**.
-- The site header and footer are **out of scope** on all pages
+We are now in the final phase of the beta. 
+All pages are now in scope on desktop (not on mobile).
 
 ### Things to report
 
@@ -74,10 +31,10 @@ Note that for issues that appear both in "Exercise/Mentoring" and "Mentoring/Dis
 - **Things that are unclear:** If you're looking for a button and can't find it, feel unsure what to do next, don't know how to get "back", etc, then please tell us.
 - **Track specific issues:** If something doesn't work for your track, but does work for other tracks, please tell us, regardless of whether it falls into the "do not report" category.
 - **ETL issues:** Is something different on v3 to how it was in v2 in February. Data lost? Wrong? If so, please tell us.
+- Any feedback on copy / wording / spelling / grammar, etc
+- Visual things that are wrong (e.g. where there is white text on a white button)
 
 ### Please do *not* report
-- Any feedback on copy / wording / spelling / grammar, etc
-- Visual inconsistencies where the CSS isn't polished yet (e.g. a color or padding being wrong)
 - Accessibility issues - we'll do a full pass once everything is settled
 - Links that go to "#"
 - General feedback / opinions
@@ -92,7 +49,6 @@ Note that for issues that appear both in "Exercise/Mentoring" and "Mentoring/Dis
 - Please include screenshots and JS console logs from dev tools, where possible.
 
 ## Changelog
-
 
 ### 14th May 2021
 
@@ -148,3 +104,7 @@ First version.
 **Newly in scope:**
 - Page: Settings/Account
 - Page: Settings/API
+
+### 6th August 2021
+
+- All pages are in scope
