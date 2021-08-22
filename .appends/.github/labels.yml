@@ -54,6 +54,10 @@
 - name: "type/track-issue"
   description: "Something that needs fixing upstream in a track"
   color: "F1E595"
+  
+- name: "type/docs-issue"
+  description: "Something needs fixing in the docs"
+  color: "F1E595"
 
 - name: "type/unfinished"
   description: "A feature that's not yet finished"
