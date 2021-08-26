@@ -59,6 +59,10 @@
   description: "Something needs fixing in the docs"
   color: "F1E595"
 
-- name: "type/unfinished"
-  description: "A feature that's not yet finished"
-  color: "0052cc"
+- name: "blocking/yes"
+  description: "Blocking launch"
+  color: "3BB488"
+
+- name: "blocking/no"
+  description: "Not blocking launch"
+  color: "0e8a16"
