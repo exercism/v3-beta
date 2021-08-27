@@ -201,8 +201,8 @@
 
 - name: "blocking/yes"
   description: "Blocking launch"
-  color: "3BB488"
+  color: "0e8a16"
 
 - name: "blocking/no"
   description: "Not blocking launch"
-  color: "0e8a16"
+  color: "3BB488"
