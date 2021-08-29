@@ -62,6 +62,10 @@
 - name: "blocking/yes"
   description: "Blocking launch"
   color: "0e8a16"
+  
+- name: "blocking/launch"
+  description: "To be done during launch"
+  color: "0e8a16"
 
 - name: "blocking/no"
   description: "Not blocking launch"
